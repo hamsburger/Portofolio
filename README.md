@@ -13,7 +13,7 @@ I currently study Masters of Data Science at University of Michigan, previously 
 
 I have worked May 2021-June 2022 as a Data Analyst Intern at Geotab, an automotive company receiving TB of vehicle dataingested into Google Cloud. I worked on significant projects during my time there, building 
 anomaly detection dashboards for problematic vehicle engine data and fixing database tables used by thousands of users. At Geotab,
-I was able to build end-to-end Data Analyst and learn both Data Analysis and Engineering skills such as database extraction, database modeling, query optimization, Airflow ETL, hypothesis testing, and dashboard building.
+I was able to build end-to-end data pipeline and learn both Data Analysis and Engineering skills such as database extraction, database modeling, query optimization, Airflow ETL, hypothesis testing, and dashboard building.
 
 ## Hobbies
 
