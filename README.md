@@ -47,6 +47,8 @@ Jupyter nbconvert + Jinja templating. Survey answers are cleaned using Affinity 
 
 **Skills**: python, plotly, unsupervised learning, jinja
 
+June 20, 2023
+
 
 
 
